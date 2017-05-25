@@ -8,21 +8,40 @@ body{
 
 }
 .title{
-
+text-align: center;
+color: #2D3638;
+font-size: 6em;
 }
 .banner{
-
+height: 200px;
+background: rgba(0,0,0,0.5);
+margin: 10px;
+}
+.banner-header{
+font-size: 3em;
+color: #abc;
+text-align: center
 }
 .shop{
-
+background: rgba(0,0,0,0.4);
 }
 .rack{
 
+  text-align: center;
 }
 .rack_img{
-  height: 200px;
-  width: 200px;
+  height: 300px;
+  width: 300px;
+  margin: 30px;
 }
 .footer{
 
+}
+.flashy{
+  width: 800;
+  font-style: italic;
+  color: #f00;
+}
+.best{
+  box-shadow: 0 0 60px #ccc;
 }
